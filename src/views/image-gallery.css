@@ -1,0 +1,10 @@
+.image-box {
+    padding-bottom: 10px;
+}
+
+.image-box img{
+    width: 100%;
+    float: left;
+    display: block;
+    margin: 0 auto;
+}
